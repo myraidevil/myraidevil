@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey there! I'm [Your Name].<br>🎨 UI/UX enthusiast and React developer.<br>💻 Specialize in crafting intuitive interfaces with HTML, CSS, and React.<br>🚀 Fascinated by blockchain technology.<br>🔗 Solidity enthusiast for Ethereum smart contract development.<br>💡 Passionate about exploring the intersection of blockchain and design.<br>🌐 Excited to collaborate and connect on GitHub!
+👋 Hey there! I'm Rohit .<br>🎨 UI/UX enthusiast and React developer.<br>💻 Specialize in crafting intuitive interfaces with HTML, CSS, and React.<br>🚀 Fascinated by blockchain technology.<br>🔗 Solidity enthusiast for Ethereum smart contract development.<br>💡 Passionate about exploring the intersection of blockchain and design.<br>🌐 Excited to collaborate and connect on GitHub!
 
 
 ## 🌐 Socials:
