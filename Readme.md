@@ -1,25 +1,168 @@
-# 💫 About Me:
-👋 Hey there! I'm Rohit .<br>🎨 UI/UX enthusiast and React developer.<br>💻 Specialize in crafting intuitive interfaces with HTML, CSS, and React.<br>🚀 Fascinated by blockchain technology.<br>🔗 Solidity enthusiast for Ethereum smart contract development.<br>💡 Passionate about exploring the intersection of blockchain and design.<br>🌐 Excited to collaborate and connect on GitHub!
+<!-- 3D-Inspired Banner -->
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Rohit%20M&fontAlignY=35&fontSize=48&desc=UI%2FUX%20Designer%20•%20Frontend%20Engineer%20•%20Web3%20Curious&descAlignY=55&color=0:1b1528,100:4f46e5&fontColor=ffffff&animation=twinkling"
+    alt="Rohit M 3D Banner"
+  />
+</p>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/myraidevil) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/myraidevil) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/myraidevil) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=for-the-badge&logo=opensea&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=myraidevil&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=myraidevil&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=myraidevil&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=3000&pause=1200&color=7F5AF0&center=true&vCenter=true&width=700&lines=UI%2FUX+Designer+focused+on+clarity+and+experience.;Frontend+Developer+building+smooth+interactive+interfaces.;Product+thinker+with+a+strong+visual+design+identity.;Exploring+Web3+and+Solidity+with+curiosity."
+    alt="Typing animation"
+  />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=myraidevil&icon=2&color=6)](https://visitcount.itsvg.in)
 
-<br clear="both">
+## 🧑‍🎨 About Me
 
-<img src="https://raw.githubusercontent.com/myraidevil/output/snake.svg" alt="Snake animation" />
+I'm **Rohit**, a Bangalore-based **UI/UX Designer** and **Frontend Developer** who loves building digital products that feel:
 
-###
+- Visually **clean and modern**
+- **Intuitive** for real users
+- Technically **solid** under the hood
+
+I work at the intersection of:
+
+- **UX thinking** – user journeys, flows, wireframes  
+- **Interface design** – design systems, components, motion  
+- **Frontend engineering** – React, Remix, TypeScript  
+- **Web3 curiosity** – Solidity, smart contracts & blockchain UX  
+
+I care a lot about **details, motion, and storytelling** in interfaces.
+
+---
+
+## 🖥️ Portfolio
+
+🎯 **Main Portfolio:**  
+👉 **[Visit my portfolio (WIP)](https://myraidevil.github.io)**  
+> _Replace this link with your actual portfolio URL when it’s live._
+
+---
+
+## 🌐 Socials
+
+<p align="left">
+  <a href="https://linkedin.com/in/myraidevil" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/myraidevil" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/myraidevil" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📚 What I’m Learning (2025 Roadmap)
+
+### 🔥 Current Focus
+
+- Advanced **React** patterns & **Remix** (SSR, routing, data loading)
+- Building **design systems**: tokens, components, documentation
+- **Framer Motion** & micro-interactions for delightful UI
+- 3D-inspired UI and motion using **Three.js / 3D concepts**
+- **Solidity** basics & smart contract patterns
+- Writing strong **UX case studies** for Behance and portfolio
+
+### 🎯 Next on the List
+
+- Web3 design patterns & wallet-friendly UX  
+- Performance-focused frontend architecture  
+- Real dashboards & data viz for product use-cases  
+
+---
+
+## 🛠️ Tech Stack (Animated Badges)
+
+<p align="left">
+  <!-- Core Dev -->
+  <img src="https://skillicons.dev/icons?i=react,remix,js,ts,html,css,tailwind" height="45" alt="Frontend stack" /><br/>
+  <!-- Design & Tools -->
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,blender" height="45" alt="Design tools" /><br/>
+  <!-- Backend & Others -->
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,git,github,vscode,netlify" height="45" alt="Backend & tools" /><br/>
+  <!-- Web3 -->
+  <img src="https://skillicons.dev/icons?i=solidity" height="45" alt="Solidity" />
+</p>
+
+---
+
+## 🚀 What I Love Building
+
+- Minimal, **product-focused UI/UX**  
+- **Interactive, animated** layouts and experiences  
+- Case study-driven **learning platforms, dashboards, and e-commerce**  
+- **Portfolio-grade** projects with strong storytelling and visuals  
+- Web3 experiments combining **Solidity + UX**  
+
+---
+
+## 📌 Featured Work (Concepts & Case Studies)
+
+- 🎓 **ZidioLearning** – Gamified LMS with quests, streaks, and progress-based motivation  
+- 🧼 **Pearll Botanica** – Minimal, sensory skincare e-commerce experience  
+- ✅ **Task Manager Web App** – Responsive productivity UI with clean hierarchy  
+- 🎬 **VR / MR Streaming UI** – Netflix-style interface adapted to immersive environments  
+- 🪩 **3D Personal Portfolio** – Animated, Bento-style layout with custom cursor & motion  
+
+> Many of these are being refined into full Behance-style case studies.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img 
+    width="49%" 
+    src="https://github-readme-stats.vercel.app/api?username=myraidevil&show_icons=true&theme=dracula&hide_border=true" 
+    alt="Rohit's GitHub stats"
+  />
+  <img 
+    width="49%" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=myraidevil&theme=dracula&hide_border=true" 
+    alt="Rohit's GitHub streak"
+  />
+</p>
+
+<p align="center">
+  <img 
+    width="60%" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=myraidevil&layout=compact&theme=dracula&hide_border=true" 
+    alt="Top Languages"
+  />
+</p>
+
+---
+
+## 😂 Random Dev Meme
+
+<p align="center">
+  <img src="https://randommeme-five.vercel.app/" height="320" alt="Random Dev Meme" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/myraidevil/output/snake.svg" alt="GitHub Contribution Snake Animation" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=myraidevil&icon=2&color=6" alt="Profile Views" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <sub>Designed & coded with intent — blending <strong>design</strong>, <strong>frontend craft</strong>, and <strong>Web3 curiosity</strong>.</sub>
+</p>
