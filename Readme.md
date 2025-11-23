@@ -24,10 +24,8 @@ I focus on building interfaces that are:
 - ✨ Clean & modern  
 - ⚡ Fast, responsive, and optimized  
 - 🎨 Thoughtfully designed  
-- 🧩 User-first & process-driven  
-- 🎥 Enhanced with smooth interactions  
-
-My work combines **UX clarity**, **UI polish**, and **solid React engineering**.
+- 🧩 User-first  
+- 🎥 Polished with smooth interactions  
 
 ---
 
@@ -36,15 +34,14 @@ My work combines **UX clarity**, **UI polish**, and **solid React engineering**.
 - UI/UX Case Studies  
 - Responsive & Animated React Interfaces  
 - Remix-based frontend experiences  
-- Full-stack MERN learning & implementation  
-- Design systems, components, and interactions  
+- Full-stack MERN projects  
+- Component libraries & design systems  
 
 ---
 
 ## 🖥️ Portfolio  
 
-🔗 **(Portfolio coming soon — 3D experience in development)**  
-I’ll update this section when your live URL is ready.
+🔗 **(Portfolio coming soon — 3D portfolio in development)**  
 
 ---
 
@@ -67,27 +64,24 @@ I’ll update this section when your live URL is ready.
 ## 📚 What I'm Learning (2025 Roadmap)
 
 ### 🔥 Current Focus
-- Advanced React Patterns (Hooks, Optimizations)  
-- Remix Framework (Routing + SSR flow)  
-- Micro-interactions (Framer Motion + CSS animations)  
-- Full-Stack MERN fundamentals  
-- UI layout architecture & design systems  
+- Advanced React Patterns  
+- Remix (Routing, SSR, Loaders)  
+- UI animation with Framer Motion  
+- MERN stack fundamentals  
+- Design systems & layout architecture  
 
 ### 🎯 Next Steps
-- Three.js basics for 3D UI  
-- Performance profiling & optimization  
-- Complex form systems & dashboards  
+- Three.js basics  
+- Performance optimization in frontend  
+- Complex dashboards & forms  
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <!-- Core Frontend -->
   <img src="https://skillicons.dev/icons?i=react,remix,js,ts,html,css,tailwind" height="45"/><br/>
-  <!-- Design -->
   <img src="https://skillicons.dev/icons?i=figma,ps,ai,blender" height="45"/><br/>
-  <!-- Backend & Tools -->
   <img src="https://skillicons.dev/icons?i=nodejs,mongodb,git,github,vscode,netlify" height="45"/>
 </p>
 
@@ -96,20 +90,19 @@ I’ll update this section when your live URL is ready.
 ## 📌 Featured Projects
 
 ### 🔹 **QTripStatic**  
-A responsive travel website built using **HTML, CSS, Bootstrap**.
+Responsive travel website using **HTML, CSS, Bootstrap**.
 
 ### 🔹 **QTripDynamic**  
-Dynamic version of QTrip with backend APIs, filtering, DOM scripting.
+Dynamic QTrip with **API integration, filters, DOM scripting**.
 
 ### 🔹 **Qtify**  
-Music discovery web app built with **React** (clean UI + routing + search).
+Music discovery app built with **React + clean UI**.
 
 ### 🔹 **QKart (Frontend + Backend)**  
-Full-stack MERN e-commerce project:  
-- 🖥 Frontend in React  
-- ⚙ Backend in Express + MongoDB  
-- 🔐 Auth, products, cart, routing  
-- 🌐 Covers full-stack development  
+Full-stack MERN e-commerce:  
+- React frontend  
+- Express + MongoDB backend  
+- Auth, cart, product flows  
 
 ---
 
@@ -126,15 +119,15 @@ Full-stack MERN e-commerce project:
 
 ---
 
-## 😂 Random Dev Meme
+## 😂 Dev Joke 
 
 <p align="center">
-  <img src="https://meme-api.com/gimme/programmingmemes" width="420" />
+  <img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="Random Dev Joke" width="480" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Snake 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
@@ -142,14 +135,14 @@ Full-stack MERN e-commerce project:
 
 ---
 
-## 👀 Visitor Count
+## 👀 Visitor Count 
 
 <p align="left">
-  <img src="https://profile-counter.glitch.me/myraidevil/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=myraidevil&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" />
 </p>
 
 ---
 
 <p align="center">
-  <sub>Designed & crafted with a love for clean UI, modern code, and meaningful interactions.</sub>
+  <sub>Designed with a love for clean UI, modern code, and meaningful interactions.</sub>
 </p>
