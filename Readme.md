@@ -1,15 +1,15 @@
-<!-- 3D-Inspired Banner -->
+<!-- 3D Premium Banner -->
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Rohit%20M&fontAlignY=35&fontSize=48&desc=UI%2FUX%20Designer%20•%20Frontend%20Engineer%20•%20Web3%20Curious&descAlignY=55&color=0:1b1528,100:4f46e5&fontColor=ffffff&animation=twinkling"
-    alt="Rohit M 3D Banner"
+    src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Rohit%20M&fontAlignY=35&fontSize=48&desc=UI%2FUX%20Designer%20•%20Frontend%20Developer&descAlignY=55&color=0:1b1528,100:4f46e5&fontColor=ffffff&animation=twinkling"
+    alt="Rohit M Banner"
   />
 </p>
 
+<!-- Typing Animation -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=3000&pause=1200&color=7F5AF0&center=true&vCenter=true&width=700&lines=UI%2FUX+Designer+focused+on+clarity+and+experience.;Frontend+Developer+building+smooth+interactive+interfaces.;Product+thinker+with+a+strong+visual+design+identity.;Exploring+Web3+and+Solidity+with+curiosity."
-    alt="Typing animation"
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=2800&pause=1300&color=7F5AF0&center=true&vCenter=true&width=700&lines=Frontend+Developer+focused+on+clean+and+modern+UI.;UI%2FUX+Designer+crafting+intuitive+experiences.;Product+Thinker+who+loves+motion+and+interaction.;Always+learning%2C+always+building."
   />
 </p>
 
@@ -17,28 +17,34 @@
 
 ## 🧑‍🎨 About Me
 
-I'm **Rohit**, a Bangalore-based **UI/UX Designer** and **Frontend Developer** who loves building digital products that feel:
+I'm **Rohit**, a Bangalore-based **UI/UX Designer** and **Frontend Developer**.
 
-- Visually **clean and modern**
-- **Intuitive** for real users
-- Technically **solid** under the hood
+I focus on building interfaces that are:
 
-I work at the intersection of:
+- ✨ Clean & modern  
+- ⚡ Fast, responsive, and optimized  
+- 🎨 Thoughtfully designed  
+- 🧩 User-first & process-driven  
+- 🎥 Enhanced with smooth interactions  
 
-- **UX thinking** – user journeys, flows, wireframes  
-- **Interface design** – design systems, components, motion  
-- **Frontend engineering** – React, Remix, TypeScript  
-- **Web3 curiosity** – Solidity, smart contracts & blockchain UX  
-
-I care a lot about **details, motion, and storytelling** in interfaces.
+My work combines **UX clarity**, **UI polish**, and **solid React engineering**.
 
 ---
 
-## 🖥️ Portfolio
+## 🚀 What I Love Working On
 
-🎯 **Main Portfolio:**  
-👉 **[Visit my portfolio (WIP)](https://myraidevil.github.io)**  
-> _Replace this link with your actual portfolio URL when it’s live._
+- UI/UX Case Studies  
+- Responsive & Animated React Interfaces  
+- Remix-based frontend experiences  
+- Full-stack MERN learning & implementation  
+- Design systems, components, and interactions  
+
+---
+
+## 🖥️ Portfolio  
+
+🔗 **(Portfolio coming soon — 3D experience in development)**  
+I’ll update this section when your live URL is ready.
 
 ---
 
@@ -46,95 +52,76 @@ I care a lot about **details, motion, and storytelling** in interfaces.
 
 <p align="left">
   <a href="https://linkedin.com/in/myraidevil" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://x.com/myraidevil" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white"/>
   </a>
   <a href="https://instagram.com/myraidevil" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 📚 What I’m Learning (2025 Roadmap)
+## 📚 What I'm Learning (2025 Roadmap)
 
 ### 🔥 Current Focus
+- Advanced React Patterns (Hooks, Optimizations)  
+- Remix Framework (Routing + SSR flow)  
+- Micro-interactions (Framer Motion + CSS animations)  
+- Full-Stack MERN fundamentals  
+- UI layout architecture & design systems  
 
-- Advanced **React** patterns & **Remix** (SSR, routing, data loading)
-- Building **design systems**: tokens, components, documentation
-- **Framer Motion** & micro-interactions for delightful UI
-- 3D-inspired UI and motion using **Three.js / 3D concepts**
-- **Solidity** basics & smart contract patterns
-- Writing strong **UX case studies** for Behance and portfolio
-
-### 🎯 Next on the List
-
-- Web3 design patterns & wallet-friendly UX  
-- Performance-focused frontend architecture  
-- Real dashboards & data viz for product use-cases  
+### 🎯 Next Steps
+- Three.js basics for 3D UI  
+- Performance profiling & optimization  
+- Complex form systems & dashboards  
 
 ---
 
-## 🛠️ Tech Stack (Animated Badges)
+## 🛠️ Tech Stack
 
 <p align="left">
-  <!-- Core Dev -->
-  <img src="https://skillicons.dev/icons?i=react,remix,js,ts,html,css,tailwind" height="45" alt="Frontend stack" /><br/>
-  <!-- Design & Tools -->
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai,blender" height="45" alt="Design tools" /><br/>
-  <!-- Backend & Others -->
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,git,github,vscode,netlify" height="45" alt="Backend & tools" /><br/>
-  <!-- Web3 -->
-  <img src="https://skillicons.dev/icons?i=solidity" height="45" alt="Solidity" />
+  <!-- Core Frontend -->
+  <img src="https://skillicons.dev/icons?i=react,remix,js,ts,html,css,tailwind" height="45"/><br/>
+  <!-- Design -->
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,blender" height="45"/><br/>
+  <!-- Backend & Tools -->
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,git,github,vscode,netlify" height="45"/>
 </p>
 
 ---
 
-## 🚀 What I Love Building
+## 📌 Featured Projects
 
-- Minimal, **product-focused UI/UX**  
-- **Interactive, animated** layouts and experiences  
-- Case study-driven **learning platforms, dashboards, and e-commerce**  
-- **Portfolio-grade** projects with strong storytelling and visuals  
-- Web3 experiments combining **Solidity + UX**  
+### 🔹 **QTripStatic**  
+A responsive travel website built using **HTML, CSS, Bootstrap**.
 
----
+### 🔹 **QTripDynamic**  
+Dynamic version of QTrip with backend APIs, filtering, DOM scripting.
 
-## 📌 Featured Work (Concepts & Case Studies)
+### 🔹 **Qtify**  
+Music discovery web app built with **React** (clean UI + routing + search).
 
-- 🎓 **ZidioLearning** – Gamified LMS with quests, streaks, and progress-based motivation  
-- 🧼 **Pearll Botanica** – Minimal, sensory skincare e-commerce experience  
-- ✅ **Task Manager Web App** – Responsive productivity UI with clean hierarchy  
-- 🎬 **VR / MR Streaming UI** – Netflix-style interface adapted to immersive environments  
-- 🪩 **3D Personal Portfolio** – Animated, Bento-style layout with custom cursor & motion  
-
-> Many of these are being refined into full Behance-style case studies.
+### 🔹 **QKart (Frontend + Backend)**  
+Full-stack MERN e-commerce project:  
+- 🖥 Frontend in React  
+- ⚙ Backend in Express + MongoDB  
+- 🔐 Auth, products, cart, routing  
+- 🌐 Covers full-stack development  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    width="49%" 
-    src="https://github-readme-stats.vercel.app/api?username=myraidevil&show_icons=true&theme=dracula&hide_border=true" 
-    alt="Rohit's GitHub stats"
-  />
-  <img 
-    width="49%" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=myraidevil&theme=dracula&hide_border=true" 
-    alt="Rohit's GitHub streak"
-  />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=myraidevil&show_icons=true&theme=dracula&hide_border=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=myraidevil&theme=dracula&hide_border=true" />
 </p>
 
 <p align="center">
-  <img 
-    width="60%" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=myraidevil&layout=compact&theme=dracula&hide_border=true" 
-    alt="Top Languages"
-  />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myraidevil&layout=compact&theme=dracula&hide_border=true" />
 </p>
 
 ---
@@ -142,7 +129,7 @@ I care a lot about **details, motion, and storytelling** in interfaces.
 ## 😂 Random Dev Meme
 
 <p align="center">
-  <img src="https://randommeme-five.vercel.app/" height="320" alt="Random Dev Meme" />
+  <img src="https://meme-api.com/gimme/programmingmemes" width="420" />
 </p>
 
 ---
@@ -150,19 +137,19 @@ I care a lot about **details, motion, and storytelling** in interfaces.
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/myraidevil/output/snake.svg" alt="GitHub Contribution Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 👀 Visitor Count
+
+<p align="left">
+  <img src="https://profile-counter.glitch.me/myraidevil/count.svg" />
 </p>
 
 ---
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=myraidevil&icon=2&color=6" alt="Profile Views" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <sub>Designed & coded with intent — blending <strong>design</strong>, <strong>frontend craft</strong>, and <strong>Web3 curiosity</strong>.</sub>
+  <sub>Designed & crafted with a love for clean UI, modern code, and meaningful interactions.</sub>
 </p>
