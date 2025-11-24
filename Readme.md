@@ -65,9 +65,10 @@ I'm **Rohit**, a UI/UX-driven **Frontend Developer** who blends **design clarity
 </a>
 
 <!-- QTripDynamic -->
-<a href="#" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=myraidevil&repo=QTripDynamic&theme=tokyonight&border_radius=14&title_color=9B5CF6" />
+<a href="https://github.com/myraidevil/rohitm10123-ME_QTRIPDYNAMIC" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=myraidevil&repo=rohitm10123-ME_QTRIPDYNAMIC&theme=tokyonight&border_radius=14&title_color=9B5CF6" />
 </a>
+
 
 <!-- Qtify -->
 <a href="#" target="_blank">
