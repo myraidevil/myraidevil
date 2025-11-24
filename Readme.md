@@ -1,9 +1,6 @@
 <!-- HERO / NEON BANNER -->
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0b0b0b,100:1a1a1a&text=Rohit%20M&fontAlignY=35&fontSize=52&fontColor=9b5cf6&desc=Frontend%20Developer%20•%20UI%2FUX%20Designer&descAlignY=55&animation=fadeIn"
-    alt="Rohit Banner"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=gradient&text=Rohit%20M%20⚡&fontSize=48&fontColor=fff&animation=fadeIn" />
 </p>
 
 <!-- TYPING INTRO -->
