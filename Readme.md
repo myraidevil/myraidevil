@@ -1,6 +1,9 @@
 <!-- HERO / NEON BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=gradient&text=Rohit%20M%20⚡&fontSize=48&fontColor=fff&animation=fadeIn" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Rohit%20M&fontAlignY=35&fontSize=48&desc=UI%2FUX%20Designer%20•%20Frontend%20Developer&descAlignY=55&color=0:1b1528,100:4f46e5&fontColor=ffffff&animation=twinkling"
+    alt="Rohit M Banner"
+  />
 </p>
 
 <!-- TYPING INTRO -->
@@ -22,22 +25,6 @@ I'm **Rohit**, a UI/UX-driven **Frontend Developer** who blends **design clarity
 - Smooth  
 - Fast  
 - and Aesthetic  
-
-My entire workflow mirrors the same philosophy as my portfolio UI:  
-**Neon gradients + dark minimalism + motion-driven experience.**
-
----
-
-# 🌈 **Design Language You’ll See Across My Work**
-- **OKLCH-based neon palette** (violet → blue)  
-- **Glassmorphism** with subtle borders  
-- **Soft UI glows**  
-- **Smooth gradients + transparency**  
-- **Katakana-inspired geometric accents**  
-- **Animated cursors, trails & magnetic buttons**  
-- **Futuristic yet minimal layout structure**  
-
-This README follows the same aesthetic.
 
 ---
 
