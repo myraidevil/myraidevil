@@ -1,7 +1,7 @@
 <!-- HERO / NEON BANNER -->
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Rohit%20M&fontAlignY=35&fontSize=48&desc=UI%2FUX%20Designer%20•%20Frontend%20Developer&descAlignY=55&color=0:1b1528,100:4f46e5&fontColor=ffffff&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Rohit%20M&fontAlignY=35&fontSize=48&desc=UI%2FUX%20Designer%20•%20Fullstack%20Developer&descAlignY=55&color=0:1b1528,100:4f46e5&fontColor=ffffff&animation=twinkling"
     alt="Rohit M Banner"
   />
 </p>
